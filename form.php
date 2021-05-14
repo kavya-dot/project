@@ -74,7 +74,7 @@ echo "<h3 align = center>Registered successfully </h3>";
 }
 else
 {
-		echo("<h4 align=center>Sorry ,User already Registered...</h4>");		
+	echo("<h4 align=center>Sorry ,User already Registered...</h4>");		
 }
 
 }
